@@ -19,7 +19,7 @@ I'm a Systems Analyst transitioning to Data Engineering, specializing in Data Ar
 ### Social Media
 
 <p align="left">
-  <a href="https://linkedin.com/in/lucas-jardim-data" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-jardim-20413a125/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitch.tv/Ycreatoor" target="_blank">
